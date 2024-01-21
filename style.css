@@ -153,7 +153,7 @@ background-color:var(--tech-color);
 }
 #showcase::before{
     content:"";
-    background: url(/Images/featured.jpg) no-repeat center center/cover;
+    background: url(/featured.jpg) no-repeat center center/cover;
     position:absolute;
     top:0px;
     left:0px;
